@@ -6,3 +6,6 @@ Primeiro repositório durante uma aula ao vivo.
 essa linha adcionei durante uma viagem pelo site.
 
 Testando mudanças pelo celular. Que interessante!!!
+
+Novo Horizonte se aproxima.
+
